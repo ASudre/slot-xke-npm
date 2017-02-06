@@ -1,0 +1,23 @@
+{
+  "name": "@username/slot-xke-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASudre/slot-xke-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASudre/slot-xke-npm/issues"
+  },
+  "homepage": "https://github.com/ASudre/slot-xke-npm#readme",
+  "dependencies": {
+    "@username/slot-npm-xke": "git@github.com/charesbast/slot-npm-xke@package-json"
+  }
+}
